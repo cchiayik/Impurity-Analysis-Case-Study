@@ -29,6 +29,7 @@ This repository presents a comprehensive data analysis case study investigating 
 <img width="857" height="417" alt="image" src="https://github.com/user-attachments/assets/d7e87979-b2df-472e-a1ec-2e25b08c6172" />
 
 3D Contour Plot in JMP
+---
 
 ![Power BI Dashboard]
 
