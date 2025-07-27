@@ -46,6 +46,8 @@ This project investigates how **Catalyst Concentration**, **Temperature**, and *
 
 4. Open `.jmp` in JMP for DOE design.
 
+5. Open code in Colab: https://colab.research.google.com/drive/1VCsWVWi1nHZqyi-TIcCaAzM5EFuiOmCo?usp=sharing 
+
 ---
 
 ## 📧 Contact
