@@ -1,57 +1,50 @@
-# Impurity Level Analysis - Case Study
+# Impurity Analysis Case Study
 
-This project investigates how **Catalyst Concentration**, **Temperature**, and **Reaction Time** impact the impurity levels in a chemical process across **3 Reactors** and **3 Shifts**.
+This repository presents a comprehensive data analysis case study investigating the **impact of catalyst concentration, temperature, and reaction time** on **impurity levels** across three different chemical reactors and work shifts.
 
-## 🧪 Tools Used
-
-- **Python** (Data cleaning, regression modeling, VIF checking, prediction)
-- **Power BI** (Interactive visual dashboard)
-- **JMP** (Design of Experiments - DOE)
-
-## 📂 Folder Structure
-
-| Folder | Description |
-|--------|-------------|
-| `python_analysis/` | Contains model-building and analysis in Python (Google Colab / Jupyter). |
-| `power_bi/` | Power BI dashboard file `.pbix`. |
-| `jmp_analysis/` | DOE setup using JMP software. |
-| `data/` | Contains the raw `.csv` dataset. |
-
-## 🧠 Highlights
-
-- Built a **multiple regression model** with interaction terms.
-- Standardized variables for model stability.
-- Checked **multicollinearity using VIF**.
-- Built a **prediction function** and visualized predictions.
-- Visual insights with Power BI.
-- Designed a DOE layout using JMP.
-
-## 📊 Sample Output
-
-> Add screenshots of:
-> - Regression summary
-> - Power BI dashboard
-> - JMP design matrix or results
+🔬 The study aims to identify significant factors affecting impurity levels using statistical modeling and data visualization techniques.
 
 ---
 
-## 🔗 Usage
+## 📁 Project Structure
 
-1. Clone repo:  
-   `git clone https://github.com/yourusername/impurity-analysis-case-study.git`
-
-2. Run Jupyter or Colab with the `python_analysis/` notebook.
-
-3. Open `.pbix` with Power BI for visuals.
-
-4. Open `.jmp` in JMP for DOE design.
-
-5. Open 'html' with https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity_Analysis_Case_Study.html
-   
+- `Impurity_Analysis_Case_Study.ipynb` — Main Python notebook using `pandas`, `statsmodels`, and `matplotlib`
+- `Impurity_Analysis_Case_Study.html` — **Interactive HTML preview** of the notebook (viewable [here](https://cchiayik.github.io/Impurity-Analysis-Case-Study/))
+- `raw_data.csv` — Cleaned dataset containing reactor operation parameters and impurity values
+- `PowerBI_Report.pbix` — Dashboard visualizing trends and interactions across variables
+- `Impurity_Analysis.jmp` — DOE model and profiling using JMP
 
 ---
 
-## 📧 Contact
+## 🚀 Tools & Technologies
 
-Created by Chew Chia Yik – feel free to reach out via [LinkedIn](your-link) or email.
+| Tool         | Purpose                               |
+|--------------|----------------------------------------|
+| Python       | Data cleaning, regression modeling     |
+| Power BI     | Visual analytics dashboard             |
+| JMP          | Advanced DOE and model profiling       |
 
+---
+
+## 🔎 Highlights
+
+- Multiple linear regression with interaction terms  
+- Full factorial insights on reactor and shift variation  
+- Visualizations via both **Power BI** and **Jupyter Notebook**
+- DOE profiling and validation using **JMP**
+
+---
+
+## 🌐 Live Notebook Preview
+
+➡️ View the rendered notebook in your browser:  
+🔗 [https://cchiayik.github.io/Impurity-Analysis-Case-Study/](https://cchiayik.github.io/Impurity-Analysis-Case-Study/)
+
+---
+
+## 📌 Usage
+
+You can clone the repository and explore the analysis:
+
+```bash
+git clone https://github.com/cchiayik/Impurity-Analysis-Case-Study.git
