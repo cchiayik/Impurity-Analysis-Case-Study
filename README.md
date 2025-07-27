@@ -25,11 +25,14 @@ This repository presents a comprehensive data analysis case study investigating 
 | JMP          | Advanced DOE and model profiling       |
 
 [JMP]
+
 <img width="857" height="417" alt="image" src="https://github.com/user-attachments/assets/d7e87979-b2df-472e-a1ec-2e25b08c6172" />
 
 3D Contour Plot in JMP
 
-![Power BI Dashboard]<img width="1316" height="738" alt="Screenshot 2025-07-27 225241" src="https://github.com/user-attachments/assets/536a690e-82d5-4b9e-8551-2b3590f2f6a8" />
+![Power BI Dashboard]
+
+<img width="1316" height="738" alt="Screenshot 2025-07-27 225241" src="https://github.com/user-attachments/assets/536a690e-82d5-4b9e-8551-2b3590f2f6a8" />
 
 Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 ---
