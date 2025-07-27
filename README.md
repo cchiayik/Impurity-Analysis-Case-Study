@@ -46,6 +46,7 @@ This project investigates how **Catalyst Concentration**, **Temperature**, and *
 
 4. Open `.jmp` in JMP for DOE design.
 
+5. Open 'html' with https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity_Analysis_Case_Study.html
 ---
 
 ## 📧 Contact
