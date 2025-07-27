@@ -24,6 +24,8 @@ This repository presents a comprehensive data analysis case study investigating 
 | Power BI     | Visual analytics dashboard             |
 | JMP          | Advanced DOE and model profiling       |
 
+![Power BI Dashboard]<img width="1316" height="738" alt="Screenshot 2025-07-27 225241" src="https://github.com/user-attachments/assets/536a690e-82d5-4b9e-8551-2b3590f2f6a8" />
+
 ---
 
 ## 🔎 Highlights
