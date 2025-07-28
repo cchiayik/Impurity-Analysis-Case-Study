@@ -11,7 +11,7 @@ This repository presents a comprehensive data analysis case study investigating 
 - `Impurity_Analysis_Case_Study.ipynb` — Main Python notebook using `pandas`, `statsmodels`, and `matplotlib`
 - `Impurity_Analysis_Case_Study.html` — **Interactive HTML preview** of the notebook (viewable [here](https://cchiayik.github.io/Impurity-Analysis-Case-Study/))
 - `Impurity.csv` — Cleaned dataset containing reactor operation parameters and impurity values
-- `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables
+- `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables (download [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/raw/refs/heads/impurity-analysis-case-study/power_bi/Impurity%20Analysis%20Case%20Study.pbix))
 - `Impurity_JMP.jmp` — DOE model and profiling using JMP
 - `Impuity JMP Least Square Method.html` — **Interactive HTML preview** of the JMP (viewable [here](https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity%20JMP%20-%20Fit%20Least%20Squares.htm )) 
 ---
