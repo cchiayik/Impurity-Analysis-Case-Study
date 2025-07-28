@@ -13,7 +13,7 @@ This repository presents a comprehensive data analysis case study investigating 
 - `Impurity.csv` — Cleaned dataset containing reactor operation parameters and impurity values
 - `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables
 - `Impurity_JMP.jmp` — DOE model and profiling using JMP
-
+- 'Impuity JMP Least Square Method.html' — **Interactive HTML preview** of the JMP (viewable https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity%20JMP%20-%20Fit%20Least%20Squares.htm ) 
 ---
 
 ## 🚀 Tools & Technologies
