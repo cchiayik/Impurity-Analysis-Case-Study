@@ -63,10 +63,10 @@ Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 
 💡 **What I Learned**
 ---
--How to integrate Python, Power BI, and JMP for end-to-end manufacturing data analysis
--The limits of assuming linearity without checking interaction effects
--How SPC tools can reveal hidden process instabilities
--How to communicate insights through visual dashboards for non-technical stakeholders
+- How to integrate Python, Power BI, and JMP for end-to-end manufacturing data analysis
+- The limits of assuming linearity without checking interaction effects
+- How SPC tools can reveal hidden process instabilities
+- How to communicate insights through visual dashboards for non-technical stakeholders
 
 ## 📌 Usage
 
