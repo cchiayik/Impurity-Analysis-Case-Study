@@ -1,7 +1,9 @@
 # Impurity Analysis Case Study
 
 This repository presents a comprehensive data analysis case study investigating the **impact of catalyst concentration, temperature, and reaction time** on **impurity levels** across three different chemical reactors and work shifts.
+
 📊 Can process impurities be reduced by optimizing reactor conditions?
+
 This case study explores that question by analyzing the effects of catalyst concentration, temperature, and reaction time across multiple reactors and work shifts using Python, Power BI, and JMP.
 
 🔬 The study aims to identify significant factors affecting impurity levels using statistical modeling and data visualization techniques.
@@ -47,10 +49,11 @@ Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 - DOE profiling and validation using **JMP**
 
 📈 Outcome Summary
--Identified catalyst concentration and temperature as significant factor affecting impurity level via regression
--Found Reactor 3 under out-of-control conditions using SPC analysis
--Designed optimal setpoints using JMP prediction profiler and 3D contour plots
--Built a Power BI dashboard for real-time impurity monitoring
+---
+- Identified catalyst concentration and temperature as significant factor affecting impurity level via regression
+- Found Reactor 3 under out-of-control conditions using SPC analysis
+- Designed optimal setpoints using JMP prediction profiler and 3D contour plots
+- Built a Power BI dashboard for real-time impurity monitoring
 
 ---
 
