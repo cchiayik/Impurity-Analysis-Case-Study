@@ -1,6 +1,8 @@
 # Impurity Analysis Case Study
 
 This repository presents a comprehensive data analysis case study investigating the **impact of catalyst concentration, temperature, and reaction time** on **impurity levels** across three different chemical reactors and work shifts.
+📊 Can process impurities be reduced by optimizing reactor conditions?
+This case study explores that question by analyzing the effects of catalyst concentration, temperature, and reaction time across multiple reactors and work shifts using Python, Power BI, and JMP.
 
 🔬 The study aims to identify significant factors affecting impurity levels using statistical modeling and data visualization techniques.
 
@@ -13,7 +15,7 @@ This repository presents a comprehensive data analysis case study investigating 
 - `Impurity.csv` — Cleaned dataset containing reactor operation parameters and impurity values (viewable [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/blob/impurity-analysis-case-study/data/Impurity.csv))
 - `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables (download [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/raw/refs/heads/impurity-analysis-case-study/power_bi/Impurity%20Analysis%20Case%20Study.pbix))
 - `Impurity_JMP.jmp` — DOE model and profiling using JMP (download [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/raw/refs/heads/impurity-analysis-case-study/jmp_analysis/Impurity%20JMP.jmp)) (required JMP software, viewer can choose to access HTML for JMP below as well)
-- `Impuity JMP Least Square Method.html` — **Interactive HTML preview** of the JMP (viewable [here](https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity%20JMP%20-%20Fit%20Least%20Squares.htm )) 
+- `Impurity_JMP_Least_Squares.htm` — **Interactive HTML preview** of the JMP (viewable [here](https://cchiayik.github.io/Impurity-Analysis-Case-Study/Impurity%20JMP%20-%20Fit%20Least%20Squares.htm )) 
 ---
 
 ## 🚀 Tools & Technologies
@@ -44,6 +46,12 @@ Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 - Visualizations via both **Power BI** and **Jupyter Notebook**
 - DOE profiling and validation using **JMP**
 
+📈 Outcome Summary
+-Identified catalyst concentration and temperature as significant factor affecting impurity level via regression
+-Found Reactor 3 under out-of-control conditions using SPC analysis
+-Designed optimal setpoints using JMP prediction profiler and 3D contour plots
+-Built a Power BI dashboard for real-time impurity monitoring
+
 ---
 
 ## 🌐 Live Notebook Preview
@@ -52,6 +60,15 @@ Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 🔗 [https://cchiayik.github.io/Impurity-Analysis-Case-Study/](https://cchiayik.github.io/Impurity-Analysis-Case-Study/)
 
 ---
+
+💡 **What I Learned**
+How to integrate Python, Power BI, and JMP for end-to-end manufacturing data analysis
+
+The limits of assuming linearity without checking interaction effects
+
+How SPC tools can reveal hidden process instabilities
+
+How to communicate insights through visual dashboards for non-technical stakeholders
 
 ## 📌 Usage
 
