@@ -24,7 +24,7 @@ This case study explores that question by analyzing the effects of catalyst conc
 
 | Tool         | Purpose                               |
 |--------------|----------------------------------------|
-| Python       | Data cleaning, regression modeling     |
+| Python       | Data cleaning, regression modelling     |
 | Power BI     | Visual analytics dashboard             |
 | JMP          | Advanced DOE and model profiling       |
 
@@ -32,7 +32,9 @@ This case study explores that question by analyzing the effects of catalyst conc
 ---
 <img width="857" height="417" alt="image" src="https://github.com/user-attachments/assets/d7e87979-b2df-472e-a1ec-2e25b08c6172" />
 
-
+Actual vs Predicted Plot with matplotlib in Jupyter
+---
+<img width="1044" height="823" alt="image" src="https://github.com/user-attachments/assets/d48ea2f8-b3ab-41ef-afaa-20ca494b77f2" />
 
 Table with Conditional Formatting, Bar Chart of Impurity for Each Reactors
 ---
